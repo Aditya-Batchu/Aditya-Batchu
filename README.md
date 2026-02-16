@@ -78,17 +78,17 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Batchu&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Batchu&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Batchu&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
